@@ -11,6 +11,9 @@ module.exports = {
     "jest": true,
     "node": true
   },
+  "plugins": [
+    "cypress"
+  ],
   "rules": {
     "jsx-a11y/href-no-hash": ["off"],
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],

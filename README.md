@@ -17,3 +17,16 @@ yarn jest:coverage
 
 ### Create React App
 * [CRA JavaScipt](https://create-react-app.dev/docs/getting-started/)
+
+### Eslint, Prettier & AirBnb
+* [Eslint, Prettier & AirBnb](https://github.com/paulolramos/eslint-prettier-airbnb-react)
+
+### Cypress
+* [Installing Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Adding-npm-scripts)
+
+#### Cypress eslint
+* [Cypress TypeScript](https://github.com/cypress-io/eslint-plugin-cypress)
+
+#### Cypress code-coverage:
+* [Cypress v3 code-coverage](https://www.cypress.io/blog/2019/09/05/cypress-code-coverage-for-create-react-app-v3/)
+* [Cypress code-coverage](https://github.com/cypress-io/code-coverage)
